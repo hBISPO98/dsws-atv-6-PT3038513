@@ -1,4 +1,4 @@
-# Banco de Dados 2 🗄️​
+# Banco de Dados 2 ​🗃️​​
 
 Aplicação web desenvolvida em Flask com integração a banco de dados relacional (SQLite) utilizando Flask-SQLAlchemy, persistência de registros de usuários e associação com funções (`Role`).
 
