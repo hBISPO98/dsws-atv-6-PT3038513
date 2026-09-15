@@ -26,3 +26,12 @@ Aplicação web desenvolvida em Flask com integração a banco de dados relacion
 
   
 - **Contexto de Shell:** Configuração do `@app.shell_context_processor` para facilitar testes e manipulações de dados via terminal (`flask shell`).
+
+---
+
+## 👩🏽‍💻 Demonstração
+| Interface Inicial - Inserção da User Morgana |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/e7d1a8fe-0949-4648-9887-f396f6749ddd" /> |
+
+> 💡 **Nota:** Os demais nomes e funções exibidos na tabela (como Administrador e Moderador) foram populados e persistidos durante as etapas da atividade posterior (atv-7).
