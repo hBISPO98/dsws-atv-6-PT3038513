@@ -32,6 +32,6 @@ Aplicação web desenvolvida em Flask com integração a banco de dados relacion
 ## 👩🏽‍💻 Demonstração
 | Interface Inicial - Inserção da User Morgana |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/e7d1a8fe-0949-4648-9887-f396f6749ddd" /> |
+| <img src="https://github.com/user-attachments/assets/befc4711-bf53-4b95-8ffd-3e2c96389c65" /> |
 
 > 💡 **Nota:** Os demais nomes e funções exibidos na tabela (como Administrador e Moderador) foram populados e persistidos durante as etapas da atividade posterior (atv-7).
